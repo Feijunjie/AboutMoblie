@@ -1,4 +1,9 @@
 # AboutMoblie
+
+## 我的个人博客
+[GitHub博客](https://feijunjie.github.io/)
+[简书博客](https://www.jianshu.com/u/abdf924ae9e4)
+
 ## iOS相关学习
 #### [教你集成百度地图](https://github.com/Feijunjie/BaiduMapDemo)
 
