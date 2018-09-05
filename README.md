@@ -24,7 +24,7 @@
 
 ## React Native相关学习
 #### [我的第一个RNDemo](https://github.com/Feijunjie/React-Native-MyDemo)
-#### [常用UI轻量封装框架](https://github.com/rilyu/teaset/blob/master/docs/cn/README.md)
+#### [常用UI轻量封装框架--Teaset](https://github.com/rilyu/teaset/blob/master/docs/cn/README.md)
 
 
 ## 其他
