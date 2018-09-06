@@ -24,6 +24,7 @@
 
 ## React Native相关学习
 #### [我的第一个RNDemo](https://github.com/Feijunjie/React-Native-MyDemo)
+#### [iOS原生中嵌套RN界面](https://github.com/Feijunjie/MyDemoJumpRN)
 #### [常用UI轻量封装框架--Teaset](https://github.com/rilyu/teaset/blob/master/docs/cn/README.md)
 
 
