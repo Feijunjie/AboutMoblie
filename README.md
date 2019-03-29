@@ -18,7 +18,7 @@
 #### [RongyunKefuUI](https://github.com/Feijunjie/RongyunKefuUI)
 #### [CYLTabBarController](https://github.com/Feijunjie/CYLTabBarController)
 #### [segmentAndList](https://github.com/Feijunjie/segmentAndList)
-#### [可展开收起的tableviewDemo](https://github.com/Feijunjie/TableviewFlexDemo)
+#### [可展开收起列表的tableviewDemo](https://github.com/Feijunjie/TableviewFlexDemo)
 
 
 
